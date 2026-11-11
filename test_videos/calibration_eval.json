@@ -1,0 +1,574 @@
+[
+  {
+    "video": "scene-0061_singapore-onenorth_CAM_FRONT_224f.mp4",
+    "status": "ok",
+    "elapsed_s": 10.2,
+    "est": {
+      "f_px": 1142.5,
+      "pitch_deg": -1.48,
+      "yaw_deg": -0.82,
+      "roll_deg": 0.02
+    },
+    "sources": {
+      "Focal length": "assumed",
+      "Principal point": "assumed",
+      "Skew / pixel aspect": "assumed",
+      "Radial distortion k1": "assumed",
+      "Yaw (road direction)": "estimated",
+      "Pitch": "estimated",
+      "Roll": "assumed",
+      "Camera height": "assumed"
+    },
+    "checks": {
+      "vanishing_point_detection_rate": [
+        0.676,
+        "pass"
+      ],
+      "vanishing_point_dispersion_deg": [
+        7.67,
+        "warn"
+      ],
+      "temporal_stability_deg": [
+        8.17,
+        "warn"
+      ],
+      "flow_foe_vs_vanishing_point_deg": [
+        2.4,
+        "pass"
+      ],
+      "horizon_inside_plausible_band": [
+        0.533,
+        "pass"
+      ],
+      "homography_conditioning": [
+        2.19,
+        "pass"
+      ],
+      "ground_motion_rigidity": [
+        0.0449,
+        "pass"
+      ],
+      "visible_ground_fraction_of_roi": [
+        0.732,
+        "pass"
+      ]
+    },
+    "roi_units_h": {
+      "x_min": 0.0,
+      "x_max": 18.175,
+      "y_max": 6.058
+    },
+    "diag": {
+      "sampled_frames": 37,
+      "forward_vp_frames": 25,
+      "vertical_vp_frames": 37,
+      "flow_pairs": 37,
+      "foe_pairs": 33
+    },
+    "focal_diag": {
+      "prior_hfov_deg": 70.0,
+      "orthogonal_vp": {
+        "usable_frames": 0,
+        "note": "camera pitch too small: the vertical vanishing point is (near) infinity, so orthogonality does not constrain the focal length"
+      },
+      "rigidity_turns": {
+        "turning_pairs_gt_3deg": 0,
+        "hfov_grid_deg": [
+          40.0,
+          45.0,
+          50.0,
+          55.0,
+          60.0,
+          65.0,
+          70.0,
+          75.0,
+          80.0,
+          85.0,
+          90.0,
+          95.0,
+          100.0,
+          105.0,
+          110.0,
+          115.0,
+          120.0
+        ],
+        "costs": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "note": "fewer than 5 frame pairs with > 3 deg of turning: focal not observable"
+      }
+    },
+    "pitch_diag": true,
+    "truth": {
+      "f_px": 1266.4,
+      "pitch_deg": 0.32,
+      "yaw_deg": 0.33,
+      "roll_deg": 0.05,
+      "camera_height_m": 1.511
+    },
+    "error": {
+      "f_rel": -0.098,
+      "pitch_deg": -1.8,
+      "yaw_deg": -1.14,
+      "roll_deg": -0.02
+    },
+    "roi_x_max_m_if_true_height": 27.5,
+    "geometry_error": {
+      "vanishing_point_px": [
+        -39.8,
+        -4.9
+      ],
+      "horizon_row_at_centre_px": -4.8,
+      "horizon_row_deg": -0.24,
+      "bev_shape_rms_pct_after_similarity": 2.32,
+      "fitted_metres_per_h": 1.759,
+      "true_camera_height_m": 1.511,
+      "note": "angle errors include the ASSUMED principal point (image centre); the pixel/BEV errors are what the BEV depends on"
+    }
+  },
+  {
+    "video": "scene-0103_boston-seaport_CAM_FRONT_229f.mp4",
+    "status": "ok",
+    "elapsed_s": 10.3,
+    "est": {
+      "f_px": 1142.5,
+      "pitch_deg": -1.13,
+      "yaw_deg": 3.07,
+      "roll_deg": -0.06
+    },
+    "sources": {
+      "Focal length": "assumed",
+      "Principal point": "assumed",
+      "Skew / pixel aspect": "assumed",
+      "Radial distortion k1": "assumed",
+      "Yaw (road direction)": "estimated",
+      "Pitch": "estimated",
+      "Roll": "assumed",
+      "Camera height": "assumed"
+    },
+    "checks": {
+      "vanishing_point_detection_rate": [
+        0.816,
+        "pass"
+      ],
+      "vanishing_point_dispersion_deg": [
+        0.97,
+        "pass"
+      ],
+      "temporal_stability_deg": [
+        0.86,
+        "pass"
+      ],
+      "flow_foe_vs_vanishing_point_deg": [
+        0.39,
+        "pass"
+      ],
+      "horizon_inside_plausible_band": [
+        0.525,
+        "pass"
+      ],
+      "homography_conditioning": [
+        2.19,
+        "pass"
+      ],
+      "ground_motion_rigidity": [
+        0.0444,
+        "pass"
+      ],
+      "visible_ground_fraction_of_roi": [
+        0.731,
+        "pass"
+      ]
+    },
+    "roi_units_h": {
+      "x_min": 0.0,
+      "x_max": 18.188,
+      "y_max": 6.063
+    },
+    "diag": {
+      "sampled_frames": 38,
+      "forward_vp_frames": 31,
+      "vertical_vp_frames": 38,
+      "flow_pairs": 38,
+      "foe_pairs": 35
+    },
+    "focal_diag": {
+      "prior_hfov_deg": 70.0,
+      "orthogonal_vp": {
+        "usable_frames": 0,
+        "note": "camera pitch too small: the vertical vanishing point is (near) infinity, so orthogonality does not constrain the focal length"
+      },
+      "rigidity_turns": {
+        "turning_pairs_gt_3deg": 1,
+        "hfov_grid_deg": [
+          40.0,
+          45.0,
+          50.0,
+          55.0,
+          60.0,
+          65.0,
+          70.0,
+          75.0,
+          80.0,
+          85.0,
+          90.0,
+          95.0,
+          100.0,
+          105.0,
+          110.0,
+          115.0,
+          120.0
+        ],
+        "costs": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0.0438,
+          0.0539,
+          0.0642,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "note": "fewer than 5 frame pairs with > 3 deg of turning: focal not observable"
+      }
+    },
+    "pitch_diag": false,
+    "truth": {
+      "f_px": 1252.8,
+      "pitch_deg": -0.48,
+      "yaw_deg": 0.59,
+      "roll_deg": -0.71,
+      "camera_height_m": 1.495
+    },
+    "error": {
+      "f_rel": -0.088,
+      "pitch_deg": -0.64,
+      "yaw_deg": 2.49,
+      "roll_deg": 0.65
+    },
+    "roi_x_max_m_if_true_height": 27.2,
+    "geometry_error": {
+      "vanishing_point_px": [
+        22.0,
+        -8.1
+      ],
+      "horizon_row_at_centre_px": -8.6,
+      "horizon_row_deg": -0.43,
+      "bev_shape_rms_pct_after_similarity": 3.77,
+      "fitted_metres_per_h": 1.802,
+      "true_camera_height_m": 1.495,
+      "note": "angle errors include the ASSUMED principal point (image centre); the pixel/BEV errors are what the BEV depends on"
+    }
+  },
+  {
+    "video": "scene-0796_singapore-queenstown_CAM_FRONT_234f.mp4",
+    "status": "ok",
+    "elapsed_s": 11.3,
+    "est": {
+      "f_px": 1142.5,
+      "pitch_deg": -1.27,
+      "yaw_deg": 2.04,
+      "roll_deg": -0.05
+    },
+    "sources": {
+      "Focal length": "assumed",
+      "Principal point": "assumed",
+      "Skew / pixel aspect": "assumed",
+      "Radial distortion k1": "assumed",
+      "Yaw (road direction)": "estimated",
+      "Pitch": "estimated",
+      "Roll": "assumed",
+      "Camera height": "assumed"
+    },
+    "checks": {
+      "vanishing_point_detection_rate": [
+        0.821,
+        "pass"
+      ],
+      "vanishing_point_dispersion_deg": [
+        0.45,
+        "pass"
+      ],
+      "temporal_stability_deg": [
+        0.26,
+        "pass"
+      ],
+      "flow_foe_vs_vanishing_point_deg": [
+        0.08,
+        "pass"
+      ],
+      "horizon_inside_plausible_band": [
+        0.528,
+        "pass"
+      ],
+      "homography_conditioning": [
+        2.19,
+        "pass"
+      ],
+      "ground_motion_rigidity": [
+        0.0404,
+        "pass"
+      ],
+      "visible_ground_fraction_of_roi": [
+        0.732,
+        "pass"
+      ]
+    },
+    "roi_units_h": {
+      "x_min": 0.0,
+      "x_max": 18.177,
+      "y_max": 6.059
+    },
+    "diag": {
+      "sampled_frames": 39,
+      "forward_vp_frames": 32,
+      "vertical_vp_frames": 39,
+      "flow_pairs": 39,
+      "foe_pairs": 39
+    },
+    "focal_diag": {
+      "prior_hfov_deg": 70.0,
+      "orthogonal_vp": {
+        "usable_frames": 0,
+        "note": "camera pitch too small: the vertical vanishing point is (near) infinity, so orthogonality does not constrain the focal length"
+      },
+      "rigidity_turns": {
+        "turning_pairs_gt_3deg": 0,
+        "hfov_grid_deg": [
+          40.0,
+          45.0,
+          50.0,
+          55.0,
+          60.0,
+          65.0,
+          70.0,
+          75.0,
+          80.0,
+          85.0,
+          90.0,
+          95.0,
+          100.0,
+          105.0,
+          110.0,
+          115.0,
+          120.0
+        ],
+        "costs": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "note": "fewer than 5 frame pairs with > 3 deg of turning: focal not observable"
+      }
+    },
+    "pitch_diag": true,
+    "truth": {
+      "f_px": 1266.4,
+      "pitch_deg": 0.32,
+      "yaw_deg": 0.33,
+      "roll_deg": 0.05,
+      "camera_height_m": 1.511
+    },
+    "error": {
+      "f_rel": -0.098,
+      "pitch_deg": -1.59,
+      "yaw_deg": 1.71,
+      "roll_deg": -0.1
+    },
+    "roi_x_max_m_if_true_height": 27.5,
+    "geometry_error": {
+      "vanishing_point_px": [
+        17.2,
+        -9.1
+      ],
+      "horizon_row_at_centre_px": -9.0,
+      "horizon_row_deg": -0.45,
+      "bev_shape_rms_pct_after_similarity": 3.01,
+      "fitted_metres_per_h": 1.869,
+      "true_camera_height_m": 1.511,
+      "note": "angle errors include the ASSUMED principal point (image centre); the pixel/BEV errors are what the BEV depends on"
+    }
+  },
+  {
+    "video": "scene-1077_singapore-hollandvillage_CAM_FRONT_240f.mp4",
+    "status": "ok",
+    "elapsed_s": 10.5,
+    "est": {
+      "f_px": 1142.5,
+      "pitch_deg": -1.53,
+      "yaw_deg": 1.41,
+      "roll_deg": -0.04
+    },
+    "sources": {
+      "Focal length": "assumed",
+      "Principal point": "assumed",
+      "Skew / pixel aspect": "assumed",
+      "Radial distortion k1": "assumed",
+      "Yaw (road direction)": "estimated",
+      "Pitch": "estimated",
+      "Roll": "assumed",
+      "Camera height": "assumed"
+    },
+    "checks": {
+      "vanishing_point_detection_rate": [
+        0.8,
+        "pass"
+      ],
+      "vanishing_point_dispersion_deg": [
+        0.49,
+        "pass"
+      ],
+      "temporal_stability_deg": [
+        0.19,
+        "pass"
+      ],
+      "flow_foe_vs_vanishing_point_deg": [
+        0.14,
+        "pass"
+      ],
+      "horizon_inside_plausible_band": [
+        0.534,
+        "pass"
+      ],
+      "homography_conditioning": [
+        2.19,
+        "pass"
+      ],
+      "ground_motion_rigidity": [
+        0.9193,
+        "warn"
+      ],
+      "visible_ground_fraction_of_roi": [
+        0.732,
+        "pass"
+      ]
+    },
+    "roi_units_h": {
+      "x_min": 0.0,
+      "x_max": 18.18,
+      "y_max": 6.06
+    },
+    "diag": {
+      "sampled_frames": 40,
+      "forward_vp_frames": 32,
+      "vertical_vp_frames": 21,
+      "flow_pairs": 40,
+      "foe_pairs": 33
+    },
+    "focal_diag": {
+      "prior_hfov_deg": 70.0,
+      "orthogonal_vp": {
+        "usable_frames": 0,
+        "note": "camera pitch too small: the vertical vanishing point is (near) infinity, so orthogonality does not constrain the focal length"
+      },
+      "rigidity_turns": {
+        "turning_pairs_gt_3deg": 2,
+        "hfov_grid_deg": [
+          40.0,
+          45.0,
+          50.0,
+          55.0,
+          60.0,
+          65.0,
+          70.0,
+          75.0,
+          80.0,
+          85.0,
+          90.0,
+          95.0,
+          100.0,
+          105.0,
+          110.0,
+          115.0,
+          120.0
+        ],
+        "costs": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0.0363,
+          0.0466,
+          0.0524,
+          0.06,
+          0.067,
+          0.0763,
+          0.085,
+          0.0941,
+          0.1054,
+          0.076
+        ],
+        "note": "fewer than 5 frame pairs with > 3 deg of turning: focal not observable"
+      }
+    },
+    "pitch_diag": false,
+    "truth": {
+      "f_px": 1266.4,
+      "pitch_deg": 0.32,
+      "yaw_deg": 0.33,
+      "roll_deg": 0.05,
+      "camera_height_m": 1.511
+    },
+    "error": {
+      "f_rel": -0.098,
+      "pitch_deg": -1.85,
+      "yaw_deg": 1.09,
+      "roll_deg": -0.09
+    },
+    "roi_x_max_m_if_true_height": 27.5,
+    "geometry_error": {
+      "vanishing_point_px": [
+        4.7,
+        -3.9
+      ],
+      "horizon_row_at_centre_px": -3.9,
+      "horizon_row_deg": -0.19,
+      "bev_shape_rms_pct_after_similarity": 2.16,
+      "fitted_metres_per_h": 1.733,
+      "true_camera_height_m": 1.511,
+      "note": "angle errors include the ASSUMED principal point (image centre); the pixel/BEV errors are what the BEV depends on"
+    }
+  }
+]

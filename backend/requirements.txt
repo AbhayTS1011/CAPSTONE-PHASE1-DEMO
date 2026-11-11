@@ -1,0 +1,10 @@
+# Backend of the dashcam -> automatic calibration -> IPM -> vectorized BEV prototype (Python 3.10-3.12)
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.20
+numpy==1.26.4
+opencv-python==4.11.0.86
+psutil==6.1.1
+pillow==11.2.1
+# only used by tools/smoke_test_backend.py (installed with uvicorn[standard])
+websockets

@@ -1,0 +1,653 @@
+{
+ "video": "scene-0796_singapore-queenstown_CAM_FRONT_234f.mp4",
+ "label": "steadier_25m",
+ "keyframes_scored": 40,
+ "metres_per_h_used": 1.869,
+ "calibration_status": "ok",
+ "scores": {
+  "divider": {
+   "T=1.0m": {
+    "precision": 0.412,
+    "recall": 0.115,
+    "pred_points": 753,
+    "ref_points": 2720
+   },
+   "T=1.5m": {
+    "precision": 0.418,
+    "recall": 0.12,
+    "pred_points": 753,
+    "ref_points": 2720
+   }
+  },
+  "boundary": {
+   "T=1.0m": {
+    "precision": 0.51,
+    "recall": 0.144,
+    "pred_points": 1678,
+    "ref_points": 6358
+   },
+   "T=1.5m": {
+    "precision": 0.722,
+    "recall": 0.2,
+    "pred_points": 1678,
+    "ref_points": 6358
+   }
+  },
+  "ped_crossing": {
+   "T=1.0m": {
+    "precision": null,
+    "recall": 0.0,
+    "pred_points": 0,
+    "ref_points": 328
+   },
+   "T=1.5m": {
+    "precision": null,
+    "recall": 0.0,
+    "pred_points": 0,
+    "ref_points": 328
+   }
+  }
+ },
+ "per_frame": [
+  {
+   "frame": 0,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 44
+   },
+   "boundary": {
+    "pred_pts": 0,
+    "ref_pts": 135
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 7,
+   "divider": {
+    "pred_pts": 24,
+    "ref_pts": 26
+   },
+   "boundary": {
+    "pred_pts": 35,
+    "ref_pts": 167
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 13,
+   "divider": {
+    "pred_pts": 21,
+    "ref_pts": 39
+   },
+   "boundary": {
+    "pred_pts": 36,
+    "ref_pts": 166
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 19,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 41
+   },
+   "boundary": {
+    "pred_pts": 47,
+    "ref_pts": 173
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 25,
+   "divider": {
+    "pred_pts": 41,
+    "ref_pts": 31
+   },
+   "boundary": {
+    "pred_pts": 29,
+    "ref_pts": 158
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 31,
+   "divider": {
+    "pred_pts": 44,
+    "ref_pts": 31
+   },
+   "boundary": {
+    "pred_pts": 36,
+    "ref_pts": 155
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 37,
+   "divider": {
+    "pred_pts": 9,
+    "ref_pts": 44
+   },
+   "boundary": {
+    "pred_pts": 35,
+    "ref_pts": 156
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 43,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 43
+   },
+   "boundary": {
+    "pred_pts": 16,
+    "ref_pts": 160
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 49,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 33
+   },
+   "boundary": {
+    "pred_pts": 67,
+    "ref_pts": 150
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 55,
+   "divider": {
+    "pred_pts": 48,
+    "ref_pts": 36
+   },
+   "boundary": {
+    "pred_pts": 48,
+    "ref_pts": 131
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 61,
+   "divider": {
+    "pred_pts": 41,
+    "ref_pts": 28
+   },
+   "boundary": {
+    "pred_pts": 4,
+    "ref_pts": 128
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 67,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 24
+   },
+   "boundary": {
+    "pred_pts": 0,
+    "ref_pts": 136
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 73,
+   "divider": {
+    "pred_pts": 17,
+    "ref_pts": 30
+   },
+   "boundary": {
+    "pred_pts": 41,
+    "ref_pts": 144
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 79,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 40
+   },
+   "boundary": {
+    "pred_pts": 31,
+    "ref_pts": 151
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 85,
+   "divider": {
+    "pred_pts": 50,
+    "ref_pts": 57
+   },
+   "boundary": {
+    "pred_pts": 45,
+    "ref_pts": 173
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 91,
+   "divider": {
+    "pred_pts": 15,
+    "ref_pts": 81
+   },
+   "boundary": {
+    "pred_pts": 26,
+    "ref_pts": 172
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 96,
+   "divider": {
+    "pred_pts": 20,
+    "ref_pts": 105
+   },
+   "boundary": {
+    "pred_pts": 5,
+    "ref_pts": 170
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 102,
+   "divider": {
+    "pred_pts": 34,
+    "ref_pts": 128
+   },
+   "boundary": {
+    "pred_pts": 57,
+    "ref_pts": 166
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 108,
+   "divider": {
+    "pred_pts": 33,
+    "ref_pts": 128
+   },
+   "boundary": {
+    "pred_pts": 41,
+    "ref_pts": 166
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 114,
+   "divider": {
+    "pred_pts": 36,
+    "ref_pts": 121
+   },
+   "boundary": {
+    "pred_pts": 34,
+    "ref_pts": 164
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 120,
+   "divider": {
+    "pred_pts": 32,
+    "ref_pts": 97
+   },
+   "boundary": {
+    "pred_pts": 37,
+    "ref_pts": 139
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 126,
+   "divider": {
+    "pred_pts": 83,
+    "ref_pts": 73
+   },
+   "boundary": {
+    "pred_pts": 56,
+    "ref_pts": 115
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 132,
+   "divider": {
+    "pred_pts": 45,
+    "ref_pts": 48
+   },
+   "boundary": {
+    "pred_pts": 60,
+    "ref_pts": 91
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 59
+   }
+  },
+  {
+   "frame": 138,
+   "divider": {
+    "pred_pts": 22,
+    "ref_pts": 33
+   },
+   "boundary": {
+    "pred_pts": 43,
+    "ref_pts": 91
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 62
+   }
+  },
+  {
+   "frame": 144,
+   "divider": {
+    "pred_pts": 15,
+    "ref_pts": 25
+   },
+   "boundary": {
+    "pred_pts": 24,
+    "ref_pts": 115
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 61
+   }
+  },
+  {
+   "frame": 150,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 33
+   },
+   "boundary": {
+    "pred_pts": 58,
+    "ref_pts": 138
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 62
+   }
+  },
+  {
+   "frame": 156,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 45
+   },
+   "boundary": {
+    "pred_pts": 49,
+    "ref_pts": 161
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 49
+   }
+  },
+  {
+   "frame": 162,
+   "divider": {
+    "pred_pts": 33,
+    "ref_pts": 56
+   },
+   "boundary": {
+    "pred_pts": 39,
+    "ref_pts": 176
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 35
+   }
+  },
+  {
+   "frame": 168,
+   "divider": {
+    "pred_pts": 16,
+    "ref_pts": 68
+   },
+   "boundary": {
+    "pred_pts": 40,
+    "ref_pts": 180
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 174,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 94
+   },
+   "boundary": {
+    "pred_pts": 63,
+    "ref_pts": 181
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 180,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 112
+   },
+   "boundary": {
+    "pred_pts": 62,
+    "ref_pts": 183
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 186,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 113
+   },
+   "boundary": {
+    "pred_pts": 65,
+    "ref_pts": 184
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 192,
+   "divider": {
+    "pred_pts": 33,
+    "ref_pts": 114
+   },
+   "boundary": {
+    "pred_pts": 79,
+    "ref_pts": 185
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 198,
+   "divider": {
+    "pred_pts": 21,
+    "ref_pts": 114
+   },
+   "boundary": {
+    "pred_pts": 70,
+    "ref_pts": 185
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 204,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 115
+   },
+   "boundary": {
+    "pred_pts": 61,
+    "ref_pts": 186
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 210,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 115
+   },
+   "boundary": {
+    "pred_pts": 61,
+    "ref_pts": 185
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 216,
+   "divider": {
+    "pred_pts": 20,
+    "ref_pts": 104
+   },
+   "boundary": {
+    "pred_pts": 58,
+    "ref_pts": 186
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 221,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 92
+   },
+   "boundary": {
+    "pred_pts": 41,
+    "ref_pts": 185
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 227,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 80
+   },
+   "boundary": {
+    "pred_pts": 38,
+    "ref_pts": 185
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  },
+  {
+   "frame": 233,
+   "divider": {
+    "pred_pts": 0,
+    "ref_pts": 79
+   },
+   "boundary": {
+    "pred_pts": 41,
+    "ref_pts": 186
+   },
+   "ped_crossing": {
+    "pred_pts": 0,
+    "ref_pts": 0
+   }
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+# temporary uploads (deleted automatically by the backend)
+backend/uploads/
+# Node
+frontend/node_modules/
+frontend/dist/
+# test inputs built from nuScenes (licensed data; rebuild with tools/build_test_videos.py)
+test_videos/*.mp4
+# local logs
+*.log
+backend/exports/

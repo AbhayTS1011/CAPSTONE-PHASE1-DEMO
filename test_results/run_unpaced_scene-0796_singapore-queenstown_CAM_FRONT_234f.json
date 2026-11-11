@@ -1,0 +1,2534 @@
+{
+ "video": "scene-0796_singapore-queenstown_CAM_FRONT_234f.mp4",
+ "inspection": {
+  "resolution": [
+   1600,
+   900
+  ],
+  "fps": 11.89,
+  "frame_count": 234,
+  "duration_s": 19.68,
+  "codec_fourcc": "h264",
+  "container_brand": "mp42",
+  "sample_entries": [
+   "avc1"
+  ],
+  "track_handlers": [
+   "vide",
+   "mdir"
+  ],
+  "metadata_tags": {},
+  "camera_related_tags": {},
+  "camera_intrinsics_in_metadata": false,
+  "metadata_note": "No camera intrinsics or mounting extrinsics are stored in standard MP4 boxes; no camera make/model tags were found.",
+  "end_of_stream_decodes": true,
+  "container_problems": [],
+  "inspection_time_s": 2.164,
+  "file_size_bytes": 38885487,
+  "filename": "scene-0796_singapore-queenstown_CAM_FRONT_234f.mp4"
+ },
+ "stages": [
+  "analysing_geometry",
+  "vanishing_points",
+  "camera_orientation",
+  "road_plane",
+  "validating",
+  "building_projection",
+  "calibration_completed"
+ ],
+ "frames": [
+  {
+   "i": 0,
+   "ts": 0.0,
+   "panels": true,
+   "n_vec": 0,
+   "ms": 1380.7,
+   "eff": null,
+   "pfps": 0.72,
+   "mem": 199.2
+  },
+  {
+   "i": 1,
+   "ts": 0.0841,
+   "panels": true,
+   "n_vec": 0,
+   "ms": 1358.1,
+   "eff": 0.68,
+   "pfps": 0.73,
+   "mem": 196.4
+  },
+  {
+   "i": 2,
+   "ts": 0.1682,
+   "panels": true,
+   "n_vec": 0,
+   "ms": 1505.6,
+   "eff": 0.66,
+   "pfps": 0.71,
+   "mem": 192.6
+  },
+  {
+   "i": 3,
+   "ts": 0.2523,
+   "panels": true,
+   "n_vec": 0,
+   "ms": 1201.6,
+   "eff": 0.68,
+   "pfps": 0.73,
+   "mem": 186.0
+  },
+  {
+   "i": 4,
+   "ts": 0.3364,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1872.1,
+   "eff": 0.62,
+   "pfps": 0.68,
+   "mem": 146.1
+  },
+  {
+   "i": 5,
+   "ts": 0.4205,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 1805.7,
+   "eff": 0.6,
+   "pfps": 0.66,
+   "mem": 197.3
+  },
+  {
+   "i": 6,
+   "ts": 0.5046,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 1579.0,
+   "eff": 0.59,
+   "pfps": 0.65,
+   "mem": 147.1
+  },
+  {
+   "i": 7,
+   "ts": 0.5887,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 1265.2,
+   "eff": 0.61,
+   "pfps": 0.67,
+   "mem": 151.2
+  },
+  {
+   "i": 8,
+   "ts": 0.6728,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1444.0,
+   "eff": 0.61,
+   "pfps": 0.67,
+   "mem": 119.6
+  },
+  {
+   "i": 9,
+   "ts": 0.7569,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 877.1,
+   "eff": 0.64,
+   "pfps": 0.7,
+   "mem": 123.6
+  },
+  {
+   "i": 10,
+   "ts": 0.841,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1229.3,
+   "eff": 0.65,
+   "pfps": 0.71,
+   "mem": 94.5
+  },
+  {
+   "i": 11,
+   "ts": 0.9251,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 1947.8,
+   "eff": 0.6,
+   "pfps": 0.69,
+   "mem": 99.2
+  },
+  {
+   "i": 12,
+   "ts": 1.0093,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 731.4,
+   "eff": 0.63,
+   "pfps": 0.71,
+   "mem": 102.7
+  },
+  {
+   "i": 13,
+   "ts": 1.0934,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 608.7,
+   "eff": 0.61,
+   "pfps": 0.74,
+   "mem": 105.5
+  },
+  {
+   "i": 14,
+   "ts": 1.1775,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 540.2,
+   "eff": 0.64,
+   "pfps": 0.78,
+   "mem": 110.3
+  },
+  {
+   "i": 15,
+   "ts": 1.2616,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 526.9,
+   "eff": 0.67,
+   "pfps": 0.81,
+   "mem": 102.0
+  },
+  {
+   "i": 16,
+   "ts": 1.3457,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 539.0,
+   "eff": 0.69,
+   "pfps": 0.83,
+   "mem": 109.8
+  },
+  {
+   "i": 17,
+   "ts": 1.4298,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 378.1,
+   "eff": 0.72,
+   "pfps": 0.87,
+   "mem": 125.1
+  },
+  {
+   "i": 18,
+   "ts": 1.5139,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 393.1,
+   "eff": 0.75,
+   "pfps": 0.9,
+   "mem": 116.0
+  },
+  {
+   "i": 19,
+   "ts": 1.598,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 358.0,
+   "eff": 0.77,
+   "pfps": 0.93,
+   "mem": 122.2
+  },
+  {
+   "i": 20,
+   "ts": 1.6821,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 353.5,
+   "eff": 0.8,
+   "pfps": 0.96,
+   "mem": 124.6
+  },
+  {
+   "i": 21,
+   "ts": 1.7662,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 332.9,
+   "eff": 0.82,
+   "pfps": 0.99,
+   "mem": 113.7
+  },
+  {
+   "i": 22,
+   "ts": 1.8503,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 378.2,
+   "eff": 0.85,
+   "pfps": 1.02,
+   "mem": 129.5
+  },
+  {
+   "i": 23,
+   "ts": 1.9344,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 508.3,
+   "eff": 0.87,
+   "pfps": 1.04,
+   "mem": 177.7
+  },
+  {
+   "i": 24,
+   "ts": 2.0185,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 693.3,
+   "eff": 0.88,
+   "pfps": 1.05,
+   "mem": 183.5
+  },
+  {
+   "i": 25,
+   "ts": 2.1026,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 741.8,
+   "eff": 0.89,
+   "pfps": 1.06,
+   "mem": 172.7
+  },
+  {
+   "i": 26,
+   "ts": 2.1867,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 716.8,
+   "eff": 0.9,
+   "pfps": 1.07,
+   "mem": 198.6
+  },
+  {
+   "i": 27,
+   "ts": 2.2708,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 582.6,
+   "eff": 0.91,
+   "pfps": 1.08,
+   "mem": 209.0
+  },
+  {
+   "i": 28,
+   "ts": 2.3549,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1466.9,
+   "eff": 0.9,
+   "pfps": 1.06,
+   "mem": 224.7
+  },
+  {
+   "i": 29,
+   "ts": 2.439,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 1739.1,
+   "eff": 0.88,
+   "pfps": 1.03,
+   "mem": 192.4
+  },
+  {
+   "i": 30,
+   "ts": 2.5231,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1019.3,
+   "eff": 0.87,
+   "pfps": 1.05,
+   "mem": 217.4
+  },
+  {
+   "i": 31,
+   "ts": 2.6072,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 848.2,
+   "eff": 0.88,
+   "pfps": 1.06,
+   "mem": 236.6
+  },
+  {
+   "i": 32,
+   "ts": 2.6913,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 788.7,
+   "eff": 0.88,
+   "pfps": 1.09,
+   "mem": 251.3
+  },
+  {
+   "i": 33,
+   "ts": 2.7754,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 973.8,
+   "eff": 0.88,
+   "pfps": 1.1,
+   "mem": 275.6
+  },
+  {
+   "i": 34,
+   "ts": 2.8595,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 798.6,
+   "eff": 0.89,
+   "pfps": 1.15,
+   "mem": 293.1
+  },
+  {
+   "i": 35,
+   "ts": 2.9437,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 702.9,
+   "eff": 0.9,
+   "pfps": 1.2,
+   "mem": 298.5
+  },
+  {
+   "i": 36,
+   "ts": 3.0278,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 667.9,
+   "eff": 0.91,
+   "pfps": 1.24,
+   "mem": 332.3
+  },
+  {
+   "i": 37,
+   "ts": 3.1119,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 671.0,
+   "eff": 0.91,
+   "pfps": 1.27,
+   "mem": 345.7
+  },
+  {
+   "i": 38,
+   "ts": 3.196,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 655.3,
+   "eff": 0.92,
+   "pfps": 1.32,
+   "mem": 365.2
+  },
+  {
+   "i": 39,
+   "ts": 3.2801,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 770.3,
+   "eff": 0.93,
+   "pfps": 1.32,
+   "mem": 384.6
+  },
+  {
+   "i": 40,
+   "ts": 3.3642,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 621.7,
+   "eff": 0.93,
+   "pfps": 1.36,
+   "mem": 391.2
+  },
+  {
+   "i": 41,
+   "ts": 3.4483,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 586.0,
+   "eff": 0.94,
+   "pfps": 1.45,
+   "mem": 416.2
+  },
+  {
+   "i": 42,
+   "ts": 3.5324,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 750.1,
+   "eff": 0.95,
+   "pfps": 1.45,
+   "mem": 418.8
+  },
+  {
+   "i": 43,
+   "ts": 3.6165,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 788.2,
+   "eff": 0.95,
+   "pfps": 1.44,
+   "mem": 439.7
+  },
+  {
+   "i": 44,
+   "ts": 3.7006,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 748.3,
+   "eff": 0.96,
+   "pfps": 1.42,
+   "mem": 458.5
+  },
+  {
+   "i": 45,
+   "ts": 3.7847,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 789.9,
+   "eff": 0.96,
+   "pfps": 1.4,
+   "mem": 466.4
+  },
+  {
+   "i": 46,
+   "ts": 3.8688,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 728.4,
+   "eff": 0.96,
+   "pfps": 1.39,
+   "mem": 485.3
+  },
+  {
+   "i": 47,
+   "ts": 3.9529,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 619.7,
+   "eff": 0.97,
+   "pfps": 1.38,
+   "mem": 448.5
+  },
+  {
+   "i": 48,
+   "ts": 4.037,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 676.1,
+   "eff": 0.98,
+   "pfps": 1.36,
+   "mem": 444.6
+  },
+  {
+   "i": 49,
+   "ts": 4.1211,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 1569.2,
+   "eff": 0.96,
+   "pfps": 1.29,
+   "mem": 444.7
+  },
+  {
+   "i": 50,
+   "ts": 4.2052,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 1464.4,
+   "eff": 0.95,
+   "pfps": 1.23,
+   "mem": 400.7
+  },
+  {
+   "i": 51,
+   "ts": 4.2893,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 1437.9,
+   "eff": 0.95,
+   "pfps": 1.18,
+   "mem": 201.3
+  },
+  {
+   "i": 52,
+   "ts": 4.3734,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1046.4,
+   "eff": 0.94,
+   "pfps": 1.15,
+   "mem": 198.4
+  },
+  {
+   "i": 53,
+   "ts": 4.4575,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 1071.7,
+   "eff": 0.94,
+   "pfps": 1.12,
+   "mem": 186.2
+  },
+  {
+   "i": 54,
+   "ts": 4.5416,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1375.8,
+   "eff": 0.93,
+   "pfps": 1.09,
+   "mem": 191.9
+  },
+  {
+   "i": 55,
+   "ts": 4.6257,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1245.7,
+   "eff": 0.93,
+   "pfps": 1.07,
+   "mem": 199.2
+  },
+  {
+   "i": 56,
+   "ts": 4.7098,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1225.3,
+   "eff": 0.93,
+   "pfps": 1.06,
+   "mem": 200.1
+  },
+  {
+   "i": 57,
+   "ts": 4.7939,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 1107.1,
+   "eff": 0.92,
+   "pfps": 1.04,
+   "mem": 202.2
+  },
+  {
+   "i": 58,
+   "ts": 4.878,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 933.4,
+   "eff": 0.93,
+   "pfps": 1.06,
+   "mem": 191.4
+  },
+  {
+   "i": 59,
+   "ts": 4.9622,
+   "panels": true,
+   "n_vec": 6,
+   "ms": 1287.3,
+   "eff": 0.92,
+   "pfps": 1.07,
+   "mem": 201.7
+  },
+  {
+   "i": 60,
+   "ts": 5.0463,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 1372.7,
+   "eff": 0.92,
+   "pfps": 1.06,
+   "mem": 206.6
+  },
+  {
+   "i": 61,
+   "ts": 5.1304,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 1359.7,
+   "eff": 0.92,
+   "pfps": 1.04,
+   "mem": 203.6
+  },
+  {
+   "i": 62,
+   "ts": 5.2145,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1134.3,
+   "eff": 0.92,
+   "pfps": 1.03,
+   "mem": 209.6
+  },
+  {
+   "i": 63,
+   "ts": 5.2986,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1006.0,
+   "eff": 0.94,
+   "pfps": 1.03,
+   "mem": 214.5
+  },
+  {
+   "i": 64,
+   "ts": 5.3827,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 959.1,
+   "eff": 0.95,
+   "pfps": 1.02,
+   "mem": 216.5
+  },
+  {
+   "i": 65,
+   "ts": 5.4668,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 1049.9,
+   "eff": 0.96,
+   "pfps": 1.01,
+   "mem": 218.6
+  },
+  {
+   "i": 66,
+   "ts": 5.5509,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 889.2,
+   "eff": 0.97,
+   "pfps": 1.0,
+   "mem": 220.2
+  },
+  {
+   "i": 67,
+   "ts": 5.635,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 934.6,
+   "eff": 0.98,
+   "pfps": 0.99,
+   "mem": 215.8
+  },
+  {
+   "i": 68,
+   "ts": 5.7191,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 881.8,
+   "eff": 0.98,
+   "pfps": 0.99,
+   "mem": 221.6
+  },
+  {
+   "i": 69,
+   "ts": 5.8032,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 973.8,
+   "eff": 0.98,
+   "pfps": 0.98,
+   "mem": 224.6
+  },
+  {
+   "i": 70,
+   "ts": 5.8873,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 946.1,
+   "eff": 1.01,
+   "pfps": 0.97,
+   "mem": 223.8
+  },
+  {
+   "i": 71,
+   "ts": 5.9714,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 933.1,
+   "eff": 1.01,
+   "pfps": 0.96,
+   "mem": 225.8
+  },
+  {
+   "i": 72,
+   "ts": 6.0555,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1229.1,
+   "eff": 1.02,
+   "pfps": 0.94,
+   "mem": 229.6
+  },
+  {
+   "i": 73,
+   "ts": 6.1396,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1172.3,
+   "eff": 1.01,
+   "pfps": 0.93,
+   "mem": 231.4
+  },
+  {
+   "i": 74,
+   "ts": 6.2237,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1111.8,
+   "eff": 1.0,
+   "pfps": 0.92,
+   "mem": 232.9
+  },
+  {
+   "i": 75,
+   "ts": 6.3078,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 733.5,
+   "eff": 1.0,
+   "pfps": 0.92,
+   "mem": 234.6
+  },
+  {
+   "i": 76,
+   "ts": 6.3919,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 975.0,
+   "eff": 0.99,
+   "pfps": 0.92,
+   "mem": 228.3
+  },
+  {
+   "i": 77,
+   "ts": 6.476,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1052.7,
+   "eff": 0.98,
+   "pfps": 0.9,
+   "mem": 235.9
+  },
+  {
+   "i": 78,
+   "ts": 6.5601,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 719.0,
+   "eff": 0.97,
+   "pfps": 0.9,
+   "mem": 238.4
+  },
+  {
+   "i": 79,
+   "ts": 6.6442,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 647.8,
+   "eff": 0.97,
+   "pfps": 0.93,
+   "mem": 237.2
+  },
+  {
+   "i": 80,
+   "ts": 6.7283,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 859.2,
+   "eff": 0.96,
+   "pfps": 0.95,
+   "mem": 230.8
+  },
+  {
+   "i": 81,
+   "ts": 6.8124,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 579.8,
+   "eff": 0.96,
+   "pfps": 0.97,
+   "mem": 240.4
+  },
+  {
+   "i": 82,
+   "ts": 6.8966,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 545.8,
+   "eff": 0.96,
+   "pfps": 0.99,
+   "mem": 240.8
+  },
+  {
+   "i": 83,
+   "ts": 6.9807,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 605.7,
+   "eff": 0.96,
+   "pfps": 1.01,
+   "mem": 245.4
+  },
+  {
+   "i": 84,
+   "ts": 7.0648,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 448.2,
+   "eff": 0.97,
+   "pfps": 1.04,
+   "mem": 249.4
+  },
+  {
+   "i": 85,
+   "ts": 7.1489,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 383.7,
+   "eff": 0.97,
+   "pfps": 1.07,
+   "mem": 251.0
+  },
+  {
+   "i": 86,
+   "ts": 7.233,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 556.9,
+   "eff": 0.97,
+   "pfps": 1.1,
+   "mem": 263.0
+  },
+  {
+   "i": 87,
+   "ts": 7.3171,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 477.8,
+   "eff": 0.99,
+   "pfps": 1.12,
+   "mem": 275.2
+  },
+  {
+   "i": 88,
+   "ts": 7.4012,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 488.7,
+   "eff": 1.01,
+   "pfps": 1.14,
+   "mem": 282.7
+  },
+  {
+   "i": 89,
+   "ts": 7.4853,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 502.9,
+   "eff": 1.03,
+   "pfps": 1.18,
+   "mem": 274.0
+  },
+  {
+   "i": 90,
+   "ts": 7.5694,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 538.9,
+   "eff": 1.03,
+   "pfps": 1.21,
+   "mem": 295.0
+  },
+  {
+   "i": 91,
+   "ts": 7.6535,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 472.1,
+   "eff": 1.04,
+   "pfps": 1.26,
+   "mem": 298.4
+  },
+  {
+   "i": 92,
+   "ts": 7.7376,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 461.1,
+   "eff": 1.05,
+   "pfps": 1.3,
+   "mem": 298.1
+  },
+  {
+   "i": 93,
+   "ts": 7.8217,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 707.6,
+   "eff": 1.05,
+   "pfps": 1.31,
+   "mem": 298.6
+  },
+  {
+   "i": 94,
+   "ts": 7.9058,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 955.2,
+   "eff": 1.05,
+   "pfps": 1.31,
+   "mem": 298.9
+  },
+  {
+   "i": 95,
+   "ts": 7.9899,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 576.8,
+   "eff": 1.05,
+   "pfps": 1.34,
+   "mem": 292.1
+  },
+  {
+   "i": 96,
+   "ts": 8.074,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 821.8,
+   "eff": 1.05,
+   "pfps": 1.35,
+   "mem": 292.2
+  },
+  {
+   "i": 97,
+   "ts": 8.1581,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 776.4,
+   "eff": 1.05,
+   "pfps": 1.36,
+   "mem": 282.5
+  },
+  {
+   "i": 98,
+   "ts": 8.2422,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 655.0,
+   "eff": 1.05,
+   "pfps": 1.37,
+   "mem": 268.7
+  },
+  {
+   "i": 99,
+   "ts": 8.3263,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 663.5,
+   "eff": 1.05,
+   "pfps": 1.39,
+   "mem": 268.4
+  },
+  {
+   "i": 100,
+   "ts": 8.4104,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 611.1,
+   "eff": 1.05,
+   "pfps": 1.41,
+   "mem": 274.2
+  },
+  {
+   "i": 101,
+   "ts": 8.4945,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 282.9,
+   "eff": 1.06,
+   "pfps": 1.46,
+   "mem": 343.6
+  },
+  {
+   "i": 102,
+   "ts": 8.5786,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 406.2,
+   "eff": 1.07,
+   "pfps": 1.52,
+   "mem": 192.7
+  },
+  {
+   "i": 103,
+   "ts": 8.6627,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 227.3,
+   "eff": 1.08,
+   "pfps": 1.59,
+   "mem": 196.0
+  },
+  {
+   "i": 104,
+   "ts": 8.7468,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 437.1,
+   "eff": 1.09,
+   "pfps": 1.65,
+   "mem": 171.6
+  },
+  {
+   "i": 105,
+   "ts": 8.831,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 194.9,
+   "eff": 1.1,
+   "pfps": 1.7,
+   "mem": 140.3
+  },
+  {
+   "i": 106,
+   "ts": 8.9151,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 296.8,
+   "eff": 1.11,
+   "pfps": 1.77,
+   "mem": 149.0
+  },
+  {
+   "i": 107,
+   "ts": 8.9992,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 329.7,
+   "eff": 1.12,
+   "pfps": 1.85,
+   "mem": 150.7
+  },
+  {
+   "i": 108,
+   "ts": 9.0833,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 278.5,
+   "eff": 1.14,
+   "pfps": 1.9,
+   "mem": 150.9
+  },
+  {
+   "i": 109,
+   "ts": 9.1674,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 311.5,
+   "eff": 1.17,
+   "pfps": 1.94,
+   "mem": 151.1
+  },
+  {
+   "i": 110,
+   "ts": 9.2515,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 249.4,
+   "eff": 1.2,
+   "pfps": 2.02,
+   "mem": 146.0
+  },
+  {
+   "i": 111,
+   "ts": 9.3356,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 310.5,
+   "eff": 1.22,
+   "pfps": 2.06,
+   "mem": 149.6
+  },
+  {
+   "i": 112,
+   "ts": 9.4197,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 274.9,
+   "eff": 1.24,
+   "pfps": 2.1,
+   "mem": 151.9
+  },
+  {
+   "i": 113,
+   "ts": 9.5038,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 292.7,
+   "eff": 1.28,
+   "pfps": 2.14,
+   "mem": 145.4
+  },
+  {
+   "i": 114,
+   "ts": 9.5879,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 197.3,
+   "eff": 1.31,
+   "pfps": 2.18,
+   "mem": 151.5
+  },
+  {
+   "i": 115,
+   "ts": 9.672,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 283.0,
+   "eff": 1.34,
+   "pfps": 2.2,
+   "mem": 152.2
+  },
+  {
+   "i": 116,
+   "ts": 9.7561,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 254.1,
+   "eff": 1.37,
+   "pfps": 2.25,
+   "mem": 141.9
+  },
+  {
+   "i": 117,
+   "ts": 9.8402,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 254.3,
+   "eff": 1.39,
+   "pfps": 2.29,
+   "mem": 146.8
+  },
+  {
+   "i": 118,
+   "ts": 9.9243,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 213.4,
+   "eff": 1.43,
+   "pfps": 2.34,
+   "mem": 151.3
+  },
+  {
+   "i": 119,
+   "ts": 10.0084,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 325.1,
+   "eff": 1.47,
+   "pfps": 2.37,
+   "mem": 151.3
+  },
+  {
+   "i": 120,
+   "ts": 10.0925,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 310.6,
+   "eff": 1.51,
+   "pfps": 2.41,
+   "mem": 146.4
+  },
+  {
+   "i": 121,
+   "ts": 10.1766,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 273.2,
+   "eff": 1.55,
+   "pfps": 2.45,
+   "mem": 151.1
+  },
+  {
+   "i": 122,
+   "ts": 10.2607,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 245.1,
+   "eff": 1.58,
+   "pfps": 2.5,
+   "mem": 151.7
+  },
+  {
+   "i": 123,
+   "ts": 10.3448,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 263.5,
+   "eff": 1.61,
+   "pfps": 2.59,
+   "mem": 146.5
+  },
+  {
+   "i": 124,
+   "ts": 10.4289,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 278.9,
+   "eff": 1.65,
+   "pfps": 2.75,
+   "mem": 152.2
+  },
+  {
+   "i": 125,
+   "ts": 10.513,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 231.7,
+   "eff": 1.69,
+   "pfps": 2.84,
+   "mem": 152.8
+  },
+  {
+   "i": 126,
+   "ts": 10.5971,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 248.2,
+   "eff": 1.72,
+   "pfps": 3.01,
+   "mem": 153.1
+  },
+  {
+   "i": 127,
+   "ts": 10.6812,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 233.6,
+   "eff": 1.76,
+   "pfps": 3.18,
+   "mem": 146.4
+  },
+  {
+   "i": 128,
+   "ts": 10.7653,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 214.0,
+   "eff": 1.8,
+   "pfps": 3.34,
+   "mem": 151.4
+  },
+  {
+   "i": 129,
+   "ts": 10.8495,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 353.2,
+   "eff": 1.84,
+   "pfps": 3.46,
+   "mem": 152.1
+  },
+  {
+   "i": 130,
+   "ts": 10.9336,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 240.9,
+   "eff": 1.89,
+   "pfps": 3.61,
+   "mem": 146.8
+  },
+  {
+   "i": 131,
+   "ts": 11.0177,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 224.5,
+   "eff": 1.95,
+   "pfps": 3.63,
+   "mem": 151.6
+  },
+  {
+   "i": 132,
+   "ts": 11.1018,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 396.2,
+   "eff": 2.01,
+   "pfps": 3.64,
+   "mem": 151.7
+  },
+  {
+   "i": 133,
+   "ts": 11.1859,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 425.2,
+   "eff": 2.06,
+   "pfps": 3.55,
+   "mem": 152.1
+  },
+  {
+   "i": 134,
+   "ts": 11.27,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 350.2,
+   "eff": 2.09,
+   "pfps": 3.59,
+   "mem": 152.1
+  },
+  {
+   "i": 135,
+   "ts": 11.3541,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 376.2,
+   "eff": 2.14,
+   "pfps": 3.51,
+   "mem": 147.2
+  },
+  {
+   "i": 136,
+   "ts": 11.4382,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 448.7,
+   "eff": 2.19,
+   "pfps": 3.45,
+   "mem": 151.8
+  },
+  {
+   "i": 137,
+   "ts": 11.5223,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 436.0,
+   "eff": 2.21,
+   "pfps": 3.41,
+   "mem": 152.1
+  },
+  {
+   "i": 138,
+   "ts": 11.6064,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 551.5,
+   "eff": 2.22,
+   "pfps": 3.31,
+   "mem": 152.5
+  },
+  {
+   "i": 139,
+   "ts": 11.6905,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 750.7,
+   "eff": 2.23,
+   "pfps": 3.16,
+   "mem": 153.6
+  },
+  {
+   "i": 140,
+   "ts": 11.7746,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 640.9,
+   "eff": 2.22,
+   "pfps": 3.03,
+   "mem": 146.9
+  },
+  {
+   "i": 141,
+   "ts": 11.8587,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 714.2,
+   "eff": 2.2,
+   "pfps": 2.91,
+   "mem": 201.1
+  },
+  {
+   "i": 142,
+   "ts": 11.9428,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 616.2,
+   "eff": 2.2,
+   "pfps": 2.82,
+   "mem": 205.0
+  },
+  {
+   "i": 143,
+   "ts": 12.0269,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 625.7,
+   "eff": 2.18,
+   "pfps": 2.73,
+   "mem": 207.0
+  },
+  {
+   "i": 144,
+   "ts": 12.111,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 866.3,
+   "eff": 2.14,
+   "pfps": 2.58,
+   "mem": 207.1
+  },
+  {
+   "i": 145,
+   "ts": 12.1951,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 680.0,
+   "eff": 2.13,
+   "pfps": 2.49,
+   "mem": 205.8
+  },
+  {
+   "i": 146,
+   "ts": 12.2792,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 605.5,
+   "eff": 2.12,
+   "pfps": 2.42,
+   "mem": 211.9
+  },
+  {
+   "i": 147,
+   "ts": 12.3633,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 602.5,
+   "eff": 2.11,
+   "pfps": 2.35,
+   "mem": 207.4
+  },
+  {
+   "i": 148,
+   "ts": 12.4474,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 598.0,
+   "eff": 2.1,
+   "pfps": 2.29,
+   "mem": 203.1
+  },
+  {
+   "i": 149,
+   "ts": 12.5315,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 464.1,
+   "eff": 2.1,
+   "pfps": 2.26,
+   "mem": 209.2
+  },
+  {
+   "i": 150,
+   "ts": 12.6156,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 523.3,
+   "eff": 2.1,
+   "pfps": 2.23,
+   "mem": 204.9
+  },
+  {
+   "i": 151,
+   "ts": 12.6997,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 509.0,
+   "eff": 2.09,
+   "pfps": 2.19,
+   "mem": 216.7
+  },
+  {
+   "i": 152,
+   "ts": 12.7839,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 672.7,
+   "eff": 2.08,
+   "pfps": 2.12,
+   "mem": 209.3
+  },
+  {
+   "i": 153,
+   "ts": 12.868,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 600.0,
+   "eff": 2.1,
+   "pfps": 2.07,
+   "mem": 210.2
+  },
+  {
+   "i": 154,
+   "ts": 12.9521,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 523.8,
+   "eff": 2.11,
+   "pfps": 2.04,
+   "mem": 215.3
+  },
+  {
+   "i": 155,
+   "ts": 13.0362,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 432.6,
+   "eff": 2.14,
+   "pfps": 2.01,
+   "mem": 209.3
+  },
+  {
+   "i": 156,
+   "ts": 13.1203,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 508.7,
+   "eff": 2.16,
+   "pfps": 1.98,
+   "mem": 210.7
+  },
+  {
+   "i": 157,
+   "ts": 13.2044,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 438.5,
+   "eff": 2.17,
+   "pfps": 1.95,
+   "mem": 209.8
+  },
+  {
+   "i": 158,
+   "ts": 13.2885,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 408.7,
+   "eff": 2.19,
+   "pfps": 1.93,
+   "mem": 219.2
+  },
+  {
+   "i": 159,
+   "ts": 13.3726,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 427.9,
+   "eff": 2.21,
+   "pfps": 1.92,
+   "mem": 210.2
+  },
+  {
+   "i": 160,
+   "ts": 13.4567,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 465.8,
+   "eff": 2.19,
+   "pfps": 1.89,
+   "mem": 209.8
+  },
+  {
+   "i": 161,
+   "ts": 13.5408,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 479.2,
+   "eff": 2.19,
+   "pfps": 1.86,
+   "mem": 215.8
+  },
+  {
+   "i": 162,
+   "ts": 13.6249,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 788.1,
+   "eff": 2.14,
+   "pfps": 1.81,
+   "mem": 217.7
+  },
+  {
+   "i": 163,
+   "ts": 13.709,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 565.3,
+   "eff": 2.13,
+   "pfps": 1.8,
+   "mem": 217.9
+  },
+  {
+   "i": 164,
+   "ts": 13.7931,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 561.7,
+   "eff": 2.1,
+   "pfps": 1.78,
+   "mem": 217.9
+  },
+  {
+   "i": 165,
+   "ts": 13.8772,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 449.5,
+   "eff": 2.09,
+   "pfps": 1.77,
+   "mem": 213.9
+  },
+  {
+   "i": 166,
+   "ts": 13.9613,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 527.2,
+   "eff": 2.07,
+   "pfps": 1.76,
+   "mem": 215.8
+  },
+  {
+   "i": 167,
+   "ts": 14.0454,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 984.6,
+   "eff": 2.02,
+   "pfps": 1.71,
+   "mem": 215.5
+  },
+  {
+   "i": 168,
+   "ts": 14.1295,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 602.9,
+   "eff": 2.0,
+   "pfps": 1.7,
+   "mem": 220.9
+  },
+  {
+   "i": 169,
+   "ts": 14.2136,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 557.4,
+   "eff": 1.98,
+   "pfps": 1.72,
+   "mem": 211.6
+  },
+  {
+   "i": 170,
+   "ts": 14.2977,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 512.3,
+   "eff": 1.96,
+   "pfps": 1.73,
+   "mem": 223.2
+  },
+  {
+   "i": 171,
+   "ts": 14.3818,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 542.1,
+   "eff": 1.95,
+   "pfps": 1.75,
+   "mem": 216.2
+  },
+  {
+   "i": 172,
+   "ts": 14.4659,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1736.9,
+   "eff": 1.86,
+   "pfps": 1.64,
+   "mem": 227.8
+  },
+  {
+   "i": 173,
+   "ts": 14.55,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 517.2,
+   "eff": 1.84,
+   "pfps": 1.65,
+   "mem": 233.4
+  },
+  {
+   "i": 174,
+   "ts": 14.6341,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 507.5,
+   "eff": 1.82,
+   "pfps": 1.69,
+   "mem": 244.3
+  },
+  {
+   "i": 175,
+   "ts": 14.7183,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 658.5,
+   "eff": 1.8,
+   "pfps": 1.69,
+   "mem": 242.3
+  },
+  {
+   "i": 176,
+   "ts": 14.8024,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 480.7,
+   "eff": 1.78,
+   "pfps": 1.7,
+   "mem": 242.3
+  },
+  {
+   "i": 177,
+   "ts": 14.8865,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 556.5,
+   "eff": 1.76,
+   "pfps": 1.7,
+   "mem": 241.4
+  },
+  {
+   "i": 178,
+   "ts": 14.9706,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 622.0,
+   "eff": 1.75,
+   "pfps": 1.7,
+   "mem": 236.3
+  },
+  {
+   "i": 179,
+   "ts": 15.0547,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 598.7,
+   "eff": 1.73,
+   "pfps": 1.69,
+   "mem": 236.9
+  },
+  {
+   "i": 180,
+   "ts": 15.1388,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 450.1,
+   "eff": 1.72,
+   "pfps": 1.7,
+   "mem": 229.1
+  },
+  {
+   "i": 181,
+   "ts": 15.2229,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 768.4,
+   "eff": 1.69,
+   "pfps": 1.67,
+   "mem": 243.6
+  },
+  {
+   "i": 182,
+   "ts": 15.307,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 596.0,
+   "eff": 1.68,
+   "pfps": 1.68,
+   "mem": 246.1
+  },
+  {
+   "i": 183,
+   "ts": 15.3911,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 628.5,
+   "eff": 1.66,
+   "pfps": 1.68,
+   "mem": 232.0
+  },
+  {
+   "i": 184,
+   "ts": 15.4752,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 789.6,
+   "eff": 1.63,
+   "pfps": 1.65,
+   "mem": 223.0
+  },
+  {
+   "i": 185,
+   "ts": 15.5593,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 659.2,
+   "eff": 1.61,
+   "pfps": 1.63,
+   "mem": 228.6
+  },
+  {
+   "i": 186,
+   "ts": 15.6434,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 1023.4,
+   "eff": 1.58,
+   "pfps": 1.59,
+   "mem": 235.7
+  },
+  {
+   "i": 187,
+   "ts": 15.7275,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 618.0,
+   "eff": 1.56,
+   "pfps": 1.57,
+   "mem": 236.1
+  },
+  {
+   "i": 188,
+   "ts": 15.8116,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 560.3,
+   "eff": 1.55,
+   "pfps": 1.56,
+   "mem": 236.3
+  },
+  {
+   "i": 189,
+   "ts": 15.8957,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 488.4,
+   "eff": 1.54,
+   "pfps": 1.55,
+   "mem": 236.5
+  },
+  {
+   "i": 190,
+   "ts": 15.9798,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 415.9,
+   "eff": 1.53,
+   "pfps": 1.56,
+   "mem": 236.6
+  },
+  {
+   "i": 191,
+   "ts": 16.0639,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 483.0,
+   "eff": 1.52,
+   "pfps": 1.56,
+   "mem": 237.5
+  },
+  {
+   "i": 192,
+   "ts": 16.148,
+   "panels": true,
+   "n_vec": 5,
+   "ms": 430.1,
+   "eff": 1.52,
+   "pfps": 1.59,
+   "mem": 237.7
+  },
+  {
+   "i": 193,
+   "ts": 16.2321,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 377.9,
+   "eff": 1.52,
+   "pfps": 1.6,
+   "mem": 237.7
+  },
+  {
+   "i": 194,
+   "ts": 16.3162,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 354.7,
+   "eff": 1.52,
+   "pfps": 1.62,
+   "mem": 237.7
+  },
+  {
+   "i": 195,
+   "ts": 16.4003,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 432.7,
+   "eff": 1.52,
+   "pfps": 1.62,
+   "mem": 237.8
+  },
+  {
+   "i": 196,
+   "ts": 16.4844,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 365.7,
+   "eff": 1.53,
+   "pfps": 1.64,
+   "mem": 237.8
+  },
+  {
+   "i": 197,
+   "ts": 16.5685,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 305.4,
+   "eff": 1.54,
+   "pfps": 1.7,
+   "mem": 238.0
+  },
+  {
+   "i": 198,
+   "ts": 16.6526,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 393.6,
+   "eff": 1.55,
+   "pfps": 1.72,
+   "mem": 238.0
+  },
+  {
+   "i": 199,
+   "ts": 16.7368,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 376.4,
+   "eff": 1.57,
+   "pfps": 1.74,
+   "mem": 236.2
+  },
+  {
+   "i": 200,
+   "ts": 16.8209,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 335.1,
+   "eff": 1.58,
+   "pfps": 1.76,
+   "mem": 236.3
+  },
+  {
+   "i": 201,
+   "ts": 16.905,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 311.5,
+   "eff": 1.6,
+   "pfps": 1.78,
+   "mem": 230.9
+  },
+  {
+   "i": 202,
+   "ts": 16.9891,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 361.5,
+   "eff": 1.61,
+   "pfps": 1.94,
+   "mem": 230.9
+  },
+  {
+   "i": 203,
+   "ts": 17.0732,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 272.7,
+   "eff": 1.64,
+   "pfps": 1.97,
+   "mem": 231.1
+  },
+  {
+   "i": 204,
+   "ts": 17.1573,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 240.6,
+   "eff": 1.66,
+   "pfps": 2.01,
+   "mem": 231.1
+  },
+  {
+   "i": 205,
+   "ts": 17.2414,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 3713.5,
+   "eff": 1.53,
+   "pfps": 1.67,
+   "mem": 71.1
+  },
+  {
+   "i": 206,
+   "ts": 17.3255,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 581.1,
+   "eff": 1.53,
+   "pfps": 1.66,
+   "mem": 93.5
+  },
+  {
+   "i": 207,
+   "ts": 17.4096,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 536.0,
+   "eff": 1.53,
+   "pfps": 1.66,
+   "mem": 100.5
+  },
+  {
+   "i": 208,
+   "ts": 17.4937,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 565.0,
+   "eff": 1.53,
+   "pfps": 1.66,
+   "mem": 105.9
+  },
+  {
+   "i": 209,
+   "ts": 17.5778,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 564.9,
+   "eff": 1.53,
+   "pfps": 1.67,
+   "mem": 108.3
+  },
+  {
+   "i": 210,
+   "ts": 17.6619,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 589.0,
+   "eff": 1.52,
+   "pfps": 1.65,
+   "mem": 110.7
+  },
+  {
+   "i": 211,
+   "ts": 17.746,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 627.3,
+   "eff": 1.53,
+   "pfps": 1.67,
+   "mem": 114.8
+  },
+  {
+   "i": 212,
+   "ts": 17.8301,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 674.0,
+   "eff": 1.53,
+   "pfps": 1.66,
+   "mem": 116.0
+  },
+  {
+   "i": 213,
+   "ts": 17.9142,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 575.6,
+   "eff": 1.53,
+   "pfps": 1.66,
+   "mem": 117.4
+  },
+  {
+   "i": 214,
+   "ts": 17.9983,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 548.6,
+   "eff": 1.52,
+   "pfps": 1.69,
+   "mem": 118.1
+  },
+  {
+   "i": 215,
+   "ts": 18.0824,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 542.0,
+   "eff": 1.52,
+   "pfps": 1.7,
+   "mem": 118.7
+  },
+  {
+   "i": 216,
+   "ts": 18.1665,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 522.0,
+   "eff": 1.52,
+   "pfps": 1.75,
+   "mem": 119.5
+  },
+  {
+   "i": 217,
+   "ts": 18.2506,
+   "panels": true,
+   "n_vec": 3,
+   "ms": 473.9,
+   "eff": 1.51,
+   "pfps": 1.76,
+   "mem": 120.0
+  },
+  {
+   "i": 218,
+   "ts": 18.3347,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 516.4,
+   "eff": 1.51,
+   "pfps": 1.77,
+   "mem": 120.7
+  },
+  {
+   "i": 219,
+   "ts": 18.4188,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 456.5,
+   "eff": 1.51,
+   "pfps": 1.77,
+   "mem": 121.3
+  },
+  {
+   "i": 220,
+   "ts": 18.5029,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 540.2,
+   "eff": 1.51,
+   "pfps": 1.76,
+   "mem": 118.1
+  },
+  {
+   "i": 221,
+   "ts": 18.587,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 518.6,
+   "eff": 1.52,
+   "pfps": 1.75,
+   "mem": 119.1
+  },
+  {
+   "i": 222,
+   "ts": 18.6712,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 529.4,
+   "eff": 1.52,
+   "pfps": 1.74,
+   "mem": 119.8
+  },
+  {
+   "i": 223,
+   "ts": 18.7553,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 495.5,
+   "eff": 1.52,
+   "pfps": 1.73,
+   "mem": 122.9
+  },
+  {
+   "i": 224,
+   "ts": 18.8394,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 482.1,
+   "eff": 1.52,
+   "pfps": 1.72,
+   "mem": 123.4
+  },
+  {
+   "i": 225,
+   "ts": 18.9235,
+   "panels": true,
+   "n_vec": 4,
+   "ms": 513.7,
+   "eff": 1.52,
+   "pfps": 1.71,
+   "mem": 124.2
+  },
+  {
+   "i": 226,
+   "ts": 19.0076,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 540.4,
+   "eff": 1.54,
+   "pfps": 1.69,
+   "mem": 115.5
+  },
+  {
+   "i": 227,
+   "ts": 19.0917,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 566.4,
+   "eff": 1.54,
+   "pfps": 1.67,
+   "mem": 122.1
+  },
+  {
+   "i": 228,
+   "ts": 19.1758,
+   "panels": true,
+   "n_vec": 2,
+   "ms": 471.1,
+   "eff": 1.54,
+   "pfps": 1.66,
+   "mem": 123.5
+  },
+  {
+   "i": 229,
+   "ts": 19.2599,
+   "panels": true,
+   "n_vec": 0,
+   "ms": 476.3,
+   "eff": 1.54,
+   "pfps": 1.65,
+   "mem": 124.5
+  },
+  {
+   "i": 230,
+   "ts": 19.344,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 468.2,
+   "eff": 1.54,
+   "pfps": 1.64,
+   "mem": 124.5
+  },
+  {
+   "i": 231,
+   "ts": 19.4281,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 494.5,
+   "eff": 1.6,
+   "pfps": 1.63,
+   "mem": 124.6
+  },
+  {
+   "i": 232,
+   "ts": 19.5122,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 421.9,
+   "eff": 1.6,
+   "pfps": 1.62,
+   "mem": 124.7
+  },
+  {
+   "i": 233,
+   "ts": 19.5963,
+   "panels": true,
+   "n_vec": 1,
+   "ms": 442.8,
+   "eff": 1.6,
+   "pfps": 1.61,
+   "mem": 124.8
+  }
+ ],
+ "states": [
+  "ready",
+  "processing",
+  "completed"
+ ],
+ "calibration": {
+  "status": "ok",
+  "scale_mode": "relative",
+  "warnings": [
+   "Focal length not observable from this video (no usable orthogonal vanishing points and too little turning). A documented prior of 70 deg horizontal field of view is ASSUMED; the BEV's forward/lateral aspect depends on it.",
+   "Camera roll is not clearly constrained by the ground-motion measurements; zero roll is ASSUMED.",
+   "Relative scale only: no physical reference is available, so distances are in units of the (unknown) camera height, not metres."
+  ],
+  "checks": [
+   {
+    "name": "vanishing_point_detection_rate",
+    "value": 0.821,
+    "status": "pass",
+    "detail": "forward vanishing point found in 32/39 sampled frames"
+   },
+   {
+    "name": "vanishing_point_dispersion_deg",
+    "value": 0.41,
+    "status": "pass",
+    "detail": "robust spread of per-frame vanishing points (turns and lane changes increase it)"
+   },
+   {
+    "name": "temporal_stability_deg",
+    "value": 0.33,
+    "status": "pass",
+    "detail": "first-half vs second-half vanishing point difference"
+   },
+   {
+    "name": "flow_foe_vs_vanishing_point_deg",
+    "value": 0.08,
+    "status": "pass",
+    "detail": "optical-flow focus of expansion vs road vanishing point (yaw), 39 frame pairs"
+   },
+   {
+    "name": "horizon_inside_plausible_band",
+    "value": 0.528,
+    "status": "pass",
+    "detail": "horizon row / image height"
+   },
+   {
+    "name": "homography_conditioning",
+    "value": 2.19,
+    "status": "pass",
+    "detail": "condition number of the normalised ground homography"
+   },
+   {
+    "name": "ground_motion_rigidity",
+    "value": 0.0404,
+    "status": "pass",
+    "detail": "median non-rigid residual of tracked ground points in the BEV / displacement (0 = perfectly planar & rigid)"
+   },
+   {
+    "name": "visible_ground_fraction_of_roi",
+    "value": 0.732,
+    "status": "pass",
+    "detail": "share of the BEV ROI observed by the camera"
+   }
+  ],
+  "parameters": [
+   {
+    "name": "Focal length",
+    "value": 1142.5,
+    "unit": "px",
+    "extra": "HFOV 70.0 deg",
+    "source": "assumed",
+    "method": "assumed"
+   },
+   {
+    "name": "Principal point",
+    "value": [
+     800.0,
+     450.0
+    ],
+    "unit": "px",
+    "source": "assumed",
+    "method": "image centre (not observable without a calibration target)"
+   },
+   {
+    "name": "Skew / pixel aspect",
+    "value": "0 / 1",
+    "unit": "",
+    "source": "assumed",
+    "method": "standard digital sensor assumption"
+   },
+   {
+    "name": "Radial distortion k1",
+    "value": 0.0,
+    "unit": "",
+    "source": "assumed",
+    "method": "plumb-line straightness of long edge chains -> not_detected, k1 = 0 used"
+   },
+   {
+    "name": "Yaw (road direction)",
+    "value": 2.04,
+    "unit": "deg",
+    "source": "estimated",
+    "method": "robust median of per-frame road vanishing points (LSD + RANSAC)"
+   },
+   {
+    "name": "Pitch",
+    "value": -1.27,
+    "unit": "deg",
+    "source": "estimated",
+    "method": "road vanishing point refined by ground-motion rigidity (+0.16 deg)"
+   },
+   {
+    "name": "Roll",
+    "value": -0.05,
+    "unit": "deg",
+    "source": "assumed",
+    "method": "not constrained by the measurements -> 0"
+   },
+   {
+    "name": "Camera height",
+    "value": 1.0,
+    "unit": "h",
+    "source": "assumed",
+    "method": "unknown; used as the unit of length (relative scale)"
+   }
+  ],
+  "elapsed_s": 62.25
+ },
+ "summary": {
+  "frames_processed": 234,
+  "total_frames": 234,
+  "wall_time_s": 175.41,
+  "paused_time_s": 0.0,
+  "mean_processing_ms": 669.75,
+  "p95_processing_ms": 1440.03,
+  "mean_processing_fps": 1.49,
+  "effective_fps": 1.33,
+  "frames_with_vector_candidates": 229,
+  "paced_to_source": false,
+  "demo_video": null,
+  "demo_video_frames": 0
+ },
+ "final_state": "completed",
+ "error": null,
+ "check": {
+  "frames_received": 234,
+  "expected": 234,
+  "in_order_no_gaps_no_duplicates": true,
+  "all_three_panels_every_frame": true,
+  "frames_with_vectors": 229,
+  "mean_processing_ms": 669.8,
+  "max_memory_rss_mb": 485.3,
+  "total_wall_s": 248.0
+ }
+}

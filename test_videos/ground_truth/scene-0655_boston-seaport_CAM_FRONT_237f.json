@@ -1,0 +1,40 @@
+{
+  "scene": "scene-0655",
+  "location": "boston-seaport",
+  "frames": 237,
+  "fps_written": 11.92,
+  "codec": "avc1",
+  "camera_intrinsic": [
+    [
+      1252.8131021185304,
+      0.0,
+      826.588114781398
+    ],
+    [
+      0.0,
+      1252.8131021185304,
+      469.9846626224581
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "cam_to_ego_rotation_wxyz": [
+    0.5077241387638071,
+    -0.4973392230703816,
+    0.49837167536166627,
+    -0.4964832014373754
+  ],
+  "cam_to_ego_translation_m": [
+    1.72200568478,
+    0.00475453292289,
+    1.49491291905
+  ],
+  "image_size": [
+    1600,
+    900
+  ],
+  "note": "Ground truth for EVALUATION ONLY. Never read by the application."
+}

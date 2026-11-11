@@ -1,0 +1,40 @@
+{
+  "scene": "scene-1100",
+  "location": "singapore-hollandvillage",
+  "frames": 232,
+  "fps_written": 11.85,
+  "codec": "avc1",
+  "camera_intrinsic": [
+    [
+      1266.417203046554,
+      0.0,
+      816.2670197447984
+    ],
+    [
+      0.0,
+      1266.417203046554,
+      491.50706579294757
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "cam_to_ego_rotation_wxyz": [
+    0.4998015430569128,
+    -0.5030316162024876,
+    0.4997798114386805,
+    -0.49737083824542755
+  ],
+  "cam_to_ego_translation_m": [
+    1.70079118954,
+    0.0159456324149,
+    1.51095763913
+  ],
+  "image_size": [
+    1600,
+    900
+  ],
+  "note": "Ground truth for EVALUATION ONLY. Never read by the application."
+}
